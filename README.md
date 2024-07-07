@@ -19,9 +19,7 @@ Demo:
 
 
 
-
-![App Screenshot](https://github.com/mehak-ui/NewsBot/assets/137998664/8e0b5fc9-b716-4c99-ac7e-436c1f5c10c7)
-
+![App Screenshot](https://github.com/mehak-ui/NewsBot/assets/137998664/f1298fd7-0a4e-48dc-9c8c-82a5b54d4289)
 
 
 
