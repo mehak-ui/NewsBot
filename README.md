@@ -12,7 +12,11 @@
 
 Demo:
 
-![App Screenshot](https://github.com/mehak-ui/NewsBot/assets/137998664/1b3f7433-7ef9-4ba8-a274-ef4ec137372c)
+
+
+![App Screenshot](https://github.com/mehak-ui/NewsBot/assets/137998664/a6e6deb5-5834-4d5f-9620-5581ef14b32e)
+
+
 
 
 
