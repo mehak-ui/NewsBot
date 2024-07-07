@@ -4,6 +4,10 @@
  Welcome to "NewsBot", an innovative project that leverages advanced natural language processing (NLP) techniques to automatically summarize news articles and provide Q&A functionality. This tool is designed to help users quickly grasp the essence of news stories and get answers to their questions based on the article content. 
 
 
+## SOURCE
+*  Streamlit for the web interface.
+* Newspaper3k library for article scraping.
+* Hugging Face's Transformers library for the summarization and Q&A functionalities.
 ## Screenshots
 
 Demo:
@@ -19,10 +23,6 @@ Demo:
 
 
 
-## SOURCE
-*  Streamlit for the web interface.
-* Newspaper3k library for article scraping.
-* Hugging Face's Transformers library for the summarization and Q&A functionalities.
 ## Features
 
 
